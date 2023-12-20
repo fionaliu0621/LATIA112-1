@@ -3,6 +3,6 @@
 姓名：劉格非
 系級：資訊工程學系116級
 [作業一](https://github.com/fionaliu0621/LATIA112-1/blob/main/HW1.py)
-[作業二](https://github.com/fionaliu0621/LATIA112-1/blob/main/hw2(selenium).py)
+[作業二](https://github.com/fionaliu0621/LATIA112-1/tree/main/hw2)
 [作業三](https://github.com/fionaliu0621/LATIA112-1/tree/main/EchoBot)
 [作業四](https://github.com/fionaliu0621/LATIA112-1/tree/main/hw4)
